@@ -2,7 +2,7 @@
 
 Kafka → Spark Structured Streaming → Delta Lake pipeline that turns raw e-commerce order events into a clean, deduplicated event table and near-real-time revenue metrics.
 
-![CI](https://github.com/GITHUB_USERNAME/realtime-order-streaming/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/santhosh-dataops/realtime-order-streaming/actions/workflows/ci.yml/badge.svg)
 
 ## Architecture
 
